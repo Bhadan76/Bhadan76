@@ -56,7 +56,9 @@ I am a passionate **Flutter app developer** who loves building beautiful, scalab
 ## 🤝 Connect with Me
 
 📧 Email: [bhadanpaul@gmail.com](mailto:bhadanpaul@gmail.com)
+
 🌐 Portfolio: [https://horn-movie-64912455.figma.site/](https://horn-movie-64912455.figma.site/)
+
 🔗 LinkedIn: [https://www.linkedin.com/in/bhadan-chandra-paul-02126737a](https://www.linkedin.com/in/bhadan-chandra-paul-02126737a)
 
 ---
