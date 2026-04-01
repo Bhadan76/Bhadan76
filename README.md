@@ -43,19 +43,11 @@ I am a passionate **Flutter app developer** who loves building beautiful, scalab
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Flutter App Project
-
-* 📱 A modern mobile application built with Flutter
-* 🚀 Features: Clean UI, fast performance, responsive design
-* 🔗 Code: [https://github.com/yourusername/project](https://github.com/yourusername/project)
-
 ### 🔹 Problem Solving Repository
 
 * 💡 Collection of solved algorithm problems
 * 🧠 Covers topics like arrays, strings, recursion, and graphs
-* 🔗 Code: [https://github.com/yourusername/problem-solving](https://github.com/yourusername/problem-solving)
+* 🔗 Code: https://github.com/Bhadan76/Problem-Solving-
 
 ---
 
